@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "tape": "~4.10.1",
-    "jsdom": "~9.4.0",
+    "jsdom": "~26.1.0",
     "html": "~1.0.0",
     "tap-xunit": "~2.3.0",
     "tap-diff": "~0.1.1"
